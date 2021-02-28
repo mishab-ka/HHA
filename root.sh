@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+apt install toilet
 red="\e[0;91m"
 blue="\e[0;94m"
 expand_bg="\e[K"
